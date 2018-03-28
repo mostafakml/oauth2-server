@@ -1,6 +1,6 @@
 {
-    "name": "league/oauth2-server",
-    "description": "A lightweight and powerful OAuth 2.0 authorization and resource server library with support for all the core specification grants. This library will allow you to secure your API with OAuth and allow your applications users to approve apps that want to access their data from your API.",
+    "name": "mostafakml/league/oauth2-server",
+    "description": "a fork from oauth2-server",
     "homepage": "https://oauth2.thephpleague.com/",
     "license": "MIT",
     "require": {
@@ -42,9 +42,8 @@
     ],
     "authors": [
         {
-            "name": "Alex Bilbie",
-            "email": "hello@alexbilbie.com",
-            "homepage": "http://www.alexbilbie.com",
+            "name": "mostafa kamali",
+            "email": "sorena.551@gmail.com",
             "role": "Developer"
         }
     ],
